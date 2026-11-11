@@ -1,0 +1,16 @@
+# fisiere generate la compilare
+*.exe
+*.o
+*.out
+a.out
+bin/
+obj/
+*.layout
+*.depend
+__pycache__/
+# fisiere create de programele din laboratorul 14
+lab14-files/**/report.txt
+lab14-files/**/ranking.txt
+# sistem
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+Popescu 9 8 10
+Ionescu 10 9 10
+Georgescu 4 5 3
+Vasilescu 7 6 8
+Marinescu 5 5 4
+Dumitrescu 10 9 10
