@@ -38,6 +38,7 @@ Cu Git: `git clone https://github.com/cezarpapara/pclp1-laborator.git`
 ## Compilare și rulare
 
 - **Code::Blocks (Windows, Linux):** *File → Open* pe fișierul `.c` sau `.cpp`, apoi **F9** (*Build and run*).
+- **VS Code pe Windows:** VS Code nu conține compilator. Se instalează *Build Tools for Visual Studio 2026*, cu setul *Desktop development with C++* ([instrucțiuni oficiale](https://code.visualstudio.com/docs/cpp/config-msvc)), apoi VS Code se pornește din *Developer Command Prompt for VS*, cu `code .` în folderul cu exemple. La ▶ se alege *C/C++: cl.exe build and debug active file*. Din același terminal: `cl /W4 program.c`, apoi `program.exe`.
 - **Terminal (macOS, Linux):**
 
 ```
